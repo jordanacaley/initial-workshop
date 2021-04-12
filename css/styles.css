@@ -1,0 +1,28 @@
+.blackboard-image {
+  height: 300px;
+}
+
+.gold {
+  color: goldenrod;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+a {
+  color: dodgerblue;
+  text-decoration: none;
+}
+
+section {
+  border-top: 1px solid black;
+}
