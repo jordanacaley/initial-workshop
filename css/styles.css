@@ -26,3 +26,20 @@ a {
 section {
   border-top: 1px solid black;
 }
+
+table {
+  border: 1px solid black;
+}
+
+td {
+  width: 75px;
+  text-align: center;
+}
+
+.black-cell {
+  border: 1px solid black;
+}
+
+.red-cell {
+  border: 1px solid red;
+}
