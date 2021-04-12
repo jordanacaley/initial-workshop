@@ -1,0 +1,33 @@
+section {
+  border-top: 1px solid black;
+  padding-bottom: 50px;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  box-sizing: border-box;
+  padding: 50px;
+}
+
+.target {
+  height: 100px;
+  width: 100px;
+  border: 5px dashed black;
+  background: red;
+  box-sizing: border-box;
+}
+
+table {
+  height: 150px;
+  width: 300px;
+}
+
+td {
+  border: 1px solid black;
+}
+
+tr:nth-child(2) td:nth-child(odd) {
+  background: darkseagreen;
+}
