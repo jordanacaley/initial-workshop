@@ -49,3 +49,12 @@ td {
 .red-cell {
   border: 1px solid red;
 }
+
+.complex table {
+  border-collapse: collapse;
+}
+
+.complex td, th {
+  border: 1px solid black;
+}
+
