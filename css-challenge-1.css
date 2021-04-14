@@ -81,3 +81,30 @@ tr:nth-child(2) td:nth-child(odd) {
   text-align: right;
   height: 65px;
 }
+
+/* Section 4 */
+
+#red-black-rows {
+  width: 300px;
+  color: white;
+}
+
+#red-black-rows .redbg {
+  background-color: red;
+}
+
+#red-black-rows .blackbg {
+  background-color: black;
+}
+
+#red-black-rows .block {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 25%;
+  font-size: 16px;
+}
+
+#red-black-rows .row {
+  font-size: 0; /* need to do this so 25% will work above */
+}
